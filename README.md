@@ -4,7 +4,7 @@ This repository provides instructions for preparing for the hands-on OptiNiSt tu
 ## preparation
 <br>
 
-1. Download and install Docker Desktop from this [link](https://www.docker.com/products/docker-desktop/).<br> 
+1. Download and install [Docker Desktop](https://www.docker.com/products/docker-desktop/).<br> 
 - For Mac users, please note that Docker provides different installers for Intel and Apple silicon cpu.
 
 - Ducumentation for installation of Docker desktop for Windows is [here](https://matsuand.github.io/docs.docker.jp.onthefly/desktop/windows/install/), for Mac is [here](https://matsuand.github.io/docs.docker.jp.onthefly/desktop/mac/install/). Basically just default installation should work. 
@@ -15,7 +15,7 @@ This repository provides instructions for preparing for the hands-on OptiNiSt tu
 - For M1/2 Mac users, make sure 'Rosetta for x86_64/amd64 emulation on Apple Silicon' is checked in the settings for Docker Desktop. 
 <br> 
 
-3. Open a [PowerShell](https://learn.microsoft.com/ja-jp/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.4) (Windows) or Terminal (Mac/Linux) and execute the following to fetch the Docker image.
+3. Open a [PowerShell](https://learn.microsoft.com/ja-jp/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.4) (Windows) or Terminal (Mac/Linux) in your computer and execute the following to fetch the Docker image.
 
 ```
 docker pull oistncu/optinist-allinone
@@ -67,7 +67,7 @@ To view the log, click on 'optnist_container' in the Containers section.
 <br>
 <br>
 
-6. In addition, please download sample files from this [link](https://drive.google.com/drive/folders/1SUy3GBltprKUOa_KNPqqevGGZURq6oEY?usp=sharing).
+6. In addition, please download [sample files](https://drive.google.com/drive/folders/1SUy3GBltprKUOa_KNPqqevGGZURq6oEY?usp=sharing). The files are sample data and workflow.
 
 ## trouble shooting
 <br>
